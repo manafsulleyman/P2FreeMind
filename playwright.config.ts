@@ -29,7 +29,7 @@ export default defineConfig({
     [
       "./node_modules/playwright-slack-report/dist/src/SlackReporter.js",
       {
-        slackWebHookUrl: "https://hooks.slack.com/services/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",
+        slackWebHookUrl: "https://hooks.slack.com/services/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",
         sendResults: "always", // "always" , "on-failure", "off"
       },
     ],
