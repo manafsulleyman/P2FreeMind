@@ -9,6 +9,7 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.46.0",
-    "@types/node": "^22.1.0"
+    "@types/node": "^22.1.0",
+    "playwright-slack-report": "^1.1.82"
   }
 }
